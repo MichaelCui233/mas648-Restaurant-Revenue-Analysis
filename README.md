@@ -1,6 +1,6 @@
 # mas648-machine-learning-for-data-analytics
 
-#Introduction:
+# Introduction:
 
 The Restaurant Revenue project focuses on exploring and predicting the revenue of restaurants based on various factors and features. A key aspect of this project is understanding the importance of variables and implementing effective feature engineering methods. By analyzing non-anonymized data and applying intuition, we can extract predictive features that contribute to a restaurant's revenue.
 
