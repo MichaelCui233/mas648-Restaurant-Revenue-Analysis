@@ -20,3 +20,6 @@ Overview of the Best Performing Model and RMSE Analysis:
 We have provided an overview of the best performing model, considering its accuracy and robustness in predicting restaurant revenue. Additionally, we have explained how we achieved the evaluation metric of Root Mean Squared Error (RMSE) to assess the model's predictive performance.
 
 Through these steps, our project has yielded a comprehensive understanding of the factors influencing restaurant revenue and has developed a predictive model that can support informed decision-making for restaurant owners and stakeholders. By applying state-of-the-art data analysis techniques and leveraging machine learning methods, we have unlocked valuable insights to drive actionable recommendations in the restaurant industry.
+
+
+# Check out the presentation here: https://drive.google.com/file/d/11pQSXvT7-YjCNSmSR7Vh1dgLzFYvncn7/view?usp=drive_link
